@@ -1,2 +1,2 @@
 # Flight-Database-Management-System
-A Python-based Flight Database Management System that manages and tracks flight schedules using MySQL. It allows users to view available flights for a specific date, generate flight details, and store data securely. The system leverages Python, MySQL Connector, and Datetime to automate flight scheduling and data handling.
+A Python-MySQL based Flight Database Management System designed for managing and tracking domestic flight schedules. This project was developed as a beginner-level implementation in Python and SQL during Senior Secondary education. It demonstrates foundational database management, user input handling, and automation techniques for flight scheduling.
